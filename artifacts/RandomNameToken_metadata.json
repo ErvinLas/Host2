@@ -483,11 +483,11 @@
 			]
 		},
 		"contracts/host.sol": {
-			"keccak256": "0x584c458b2b71d7277069b9f067258ffeed662393a88fbacfd1dad18594290e79",
+			"keccak256": "0x88b9bdf5af02119f4e98868c127a21a7ebddcabcb588e9ae196993499a026bee",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://406262691ca5d1be75b507139f9169f200f79908fe7cda3427ba95e105b29607",
-				"dweb:/ipfs/Qmf3vb4hRTRv3ijhc8c4tUizQ4aoMohW8vHp3EL955LguB"
+				"bzz-raw://bb77acb3e42cd304f887646b5f596b893ae2503bfcd43f7aa9656b77c3bd9962",
+				"dweb:/ipfs/QmSndFSZuKc9Pn97PLyQFtTNRGt5PdYGQH3HMfY3xCbhQS"
 			]
 		}
 	},
